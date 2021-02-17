@@ -1,0 +1,6 @@
+Arabica Coffee	458
+Robusta Coffee	47421
+Liberica Coffee	6321
+Excelsa Coffee	1248
+Kenya Coffee	389
+Waco Coffee	589
